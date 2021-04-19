@@ -8,6 +8,7 @@ body {
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif; 
+
 }
 
 .wrapper {
@@ -18,3 +19,12 @@ body {
 }
 
 /* Write all remaining styles here */
+
+div {
+  
+  margin:50px;
+  padding:10px;
+  
+  
+}
+
