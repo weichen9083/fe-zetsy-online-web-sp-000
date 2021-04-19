@@ -11,6 +11,8 @@ body {
 
 }
 
+
+
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
@@ -20,11 +22,5 @@ body {
 
 /* Write all remaining styles here */
 
-div {
-  
-  margin:50px;
-  padding:10px;
-  
-  
-}
+
 
