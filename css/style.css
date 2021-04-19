@@ -11,6 +11,10 @@ body {
 
 }
 
+html{
+  margin: 50px;
+}
+
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
@@ -23,7 +27,5 @@ body {
 p {
   text-align: center;
 
-  
-  
 }
 
