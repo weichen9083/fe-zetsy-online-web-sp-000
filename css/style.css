@@ -22,8 +22,10 @@ body {
 
 /* Write all remaining styles here */
 
-p {
-  text-align: center;
-
+div {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
 }
 
